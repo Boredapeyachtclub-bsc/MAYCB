@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/MAYCB/static/css/main.9097b861.chunk.css",
+    "main.js": "/MAYCB/static/js/main.ed6df651.chunk.js",
+    "main.js.map": "/MAYCB/static/js/main.ed6df651.chunk.js.map",
+    "runtime-main.js": "/MAYCB/static/js/runtime-main.b093ba9c.js",
+    "runtime-main.js.map": "/MAYCB/static/js/runtime-main.b093ba9c.js.map",
+    "static/js/2.b89e3bb8.chunk.js": "/MAYCB/static/js/2.b89e3bb8.chunk.js",
+    "static/js/2.b89e3bb8.chunk.js.map": "/MAYCB/static/js/2.b89e3bb8.chunk.js.map",
+    "index.html": "/MAYCB/index.html",
+    "static/css/main.9097b861.chunk.css.map": "/MAYCB/static/css/main.9097b861.chunk.css.map",
+    "static/js/2.b89e3bb8.chunk.js.LICENSE.txt": "/MAYCB/static/js/2.b89e3bb8.chunk.js.LICENSE.txt",
+    "static/media/hero.2e8f6bff.png": "/MAYCB/static/media/hero.2e8f6bff.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b093ba9c.js",
+    "static/js/2.b89e3bb8.chunk.js",
+    "static/css/main.9097b861.chunk.css",
+    "static/js/main.ed6df651.chunk.js"
+  ]
+}
